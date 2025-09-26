@@ -65,29 +65,11 @@
         "lieu": 5
       },
       "dateVisited": "2025-09-26"
-    },
-    {
-      "id": 1758924376838,
-      "name": "zaf",
-      "type": "asiatique",
-      "location": "azf",
-      "address": "azf",
-      "priceRange": "€€",
-      "photo": "",
-      "comment": "azfafz",
-      "dateAdded": "2025-09-26",
-      "ratings": {
-        "plats": 5,
-        "vins": 5,
-        "accueil": 5,
-        "lieu": 5
-      },
-      "dateVisited": "2025-09-26"
     }
   ],
   "wishlist": [],
   "metadata": {
-    "lastUpdated": "2025-09-26T22:06:16.838Z",
-    "totalEntries": 3
+    "lastUpdated": "2025-09-26T22:06:22.885Z",
+    "totalEntries": 2
   }
 }
