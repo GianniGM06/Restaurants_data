@@ -44,11 +44,32 @@
       "dateAdded": "2024-12-15",
       "priceRange": "€€",
       "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "L'Ami Jean",
+      "type": "français",
+      "location": "7ème arrondissement",
+      "address": "27 rue Malar, 75007 Paris",
+      "coordinates": {
+        "lat": 48.8584,
+        "lng": 2.3019
+      },
+      "dateAdded": "2024-12-01",
+      "priceRange": "€€€",
+      "photo": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=400&h=250&fit=crop",
+      "ratings": {
+        "plats": 5,
+        "vins": 5,
+        "accueil": 5,
+        "lieu": 5
+      },
+      "dateVisited": "2025-09-26"
     }
   ],
   "wishlist": [],
   "metadata": {
-    "lastUpdated": "2025-09-26T22:05:23.895Z",
-    "totalEntries": 1
+    "lastUpdated": "2025-09-26T22:05:25.658Z",
+    "totalEntries": 2
   }
 }
