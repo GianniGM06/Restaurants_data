@@ -65,47 +65,11 @@
         "lieu": 5
       },
       "dateVisited": "2025-09-26"
-    },
-    {
-      "id": 1758924934293,
-      "name": "fefeazze",
-      "type": "asiatique",
-      "location": "zefzfezef",
-      "address": "",
-      "priceRange": "€€",
-      "photo": "",
-      "comment": "ezfzefzef",
-      "dateAdded": "2025-09-26",
-      "ratings": {
-        "plats": 5,
-        "vins": 5,
-        "accueil": 5,
-        "lieu": 5
-      },
-      "dateVisited": "2025-09-26"
-    },
-    {
-      "id": 1758925435709,
-      "name": "test",
-      "type": "asiatique",
-      "location": "test",
-      "address": "",
-      "priceRange": "€€",
-      "photo": "",
-      "comment": "test",
-      "dateAdded": "2025-09-26",
-      "ratings": {
-        "plats": 5,
-        "vins": 5,
-        "accueil": 5,
-        "lieu": 5
-      },
-      "dateVisited": "2025-09-26"
     }
   ],
   "wishlist": [],
   "metadata": {
-    "lastUpdated": "2025-09-26T22:24:04.149Z",
-    "totalEntries": 4
+    "lastUpdated": "2025-09-26T22:25:40.340Z",
+    "totalEntries": 2
   }
 }
