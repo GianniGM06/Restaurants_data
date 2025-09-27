@@ -65,29 +65,11 @@
         "lieu": 5
       },
       "dateVisited": "2025-09-26"
-    },
-    {
-      "id": 1758961452814,
-      "name": "test",
-      "type": "asiatique",
-      "location": "test",
-      "address": "",
-      "priceRange": "€€",
-      "photo": "",
-      "comment": "test",
-      "dateAdded": "2025-09-27",
-      "ratings": {
-        "plats": 5,
-        "vins": 5,
-        "accueil": 5,
-        "lieu": 5
-      },
-      "dateVisited": "2025-09-27"
     }
   ],
   "wishlist": [],
   "metadata": {
-    "lastUpdated": "2025-09-27T08:24:12.816Z",
-    "totalEntries": 3
+    "lastUpdated": "2025-09-27T08:31:57.434Z",
+    "totalEntries": 2
   }
 }
